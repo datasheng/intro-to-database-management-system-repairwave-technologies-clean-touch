@@ -1,3 +1,7 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/DUOLabs333/databases-final-project
+
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/SajedAtwa/database-final-projectfrontend
