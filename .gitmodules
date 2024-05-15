@@ -3,3 +3,6 @@
 	url = https://github.com/MelidoB/336-Final-Project.git
 	branch = temp
 
+[submodule "snipmate-snippets/snippets"]
+	path = snipmate-snippets/snippets
+	url = https://github.com/MelidoB/336-Final-Project.git
