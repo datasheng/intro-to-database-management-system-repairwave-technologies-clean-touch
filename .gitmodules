@@ -1,11 +1,4 @@
-[submodule "336-Final-Project"]
-	path = backend
-	url = https://github.com/MelidoB/336-Final-Project.git
-	branch = temp
-
-[submodule "snipmate-snippets/snippets"]
-	path = snipmate-snippets/snippets
-	url = https://github.com/MelidoB/336-Final-Project.git
 [submodule "Final-Project"]
 	path = Final-Project
 	url = https://github.com/MelidoB/336-Final-Project.git
+	branch = main
